@@ -1,6 +1,8 @@
 # Switch Language Omeka Plugin
 
-An Omeka S plugin to support language switching for *Chile 88*. This plugin allow users to choose the website language. Admins can configure the public languages available and the default website language. This is a modification of [the original plugin](https://gitlab.com/TIME_LAS/Omeka_Plugin_SwitchLang/-/tree/master).
+An Omeka S plugin to support language switching for *Chile 88*. This plugin allow users to choose the website language. Admins can configure the public languages available and the default website language. 
+
+This is a modification of [the original plugin](https://gitlab.com/TIME_LAS/Omeka_Plugin_SwitchLang/-/tree/master).
 
 ## Requirements
 
